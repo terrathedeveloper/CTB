@@ -318,6 +318,10 @@ body {
   background-color: #fff;
 }
 
+.slider-wrapper{
+  height:700px;
+  max-height:700px;
+}
 h1 {
   font-size: 64px;
   line-height: 1.3125em;
@@ -656,6 +660,10 @@ body.overflow-hidden-header-three {
     /** Opera **/
     -moz-transform: translate(290px, 0);
     /** Firefox **/
+  }
+  .slider-wrapper{
+    height:250px;
+    max-height: 250px;
   }
 }
 
@@ -6965,4 +6973,8 @@ screen and (max-height: 300px) {
 
 .container-slideclient {
   padding: 0 0 20px 0;
+}
+
+a.thumbnail img{
+  width:100%;
 }
