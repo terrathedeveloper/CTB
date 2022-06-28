@@ -1757,12 +1757,11 @@ span.description {
   -o-border-radius: 50%;
 }
 
-.service-box-sb .service-icon .fa {}
+/*.service-box-sb .service-icon .fa {}*/
 
 .service-box-sb .service-info {
   margin-top: 4px;
   overflow: hidden;
-  *
 }
 
 .service-box-sb .service-info h4 {
@@ -3147,7 +3146,8 @@ button.close {
 
 .testimonials .testimonial .client .client-pic img {
   width: 75px;
-  height: 75px -webkit-border-radius: 50%;
+  height: 75px;
+  -webkit-border-radius: 50%;
   -moz-border-radius: 50%;
   border-radius: 50%;
   display: block;
