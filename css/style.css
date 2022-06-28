@@ -6460,7 +6460,7 @@ screen and (max-height: 300px) {
 .slider-wrapper {
   position: relative;
   overflow: hidden;
-  max-height: 600px;
+  max-height: 700px;
 }
 
 .fr-slider,
