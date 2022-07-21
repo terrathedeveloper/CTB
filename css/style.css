@@ -317,7 +317,9 @@ body {
 .inner-conterner {
   background-color: #fff;
 }
-
+.container{
+  padding-bottom:40px;
+}
 .slider-wrapper{
   height:700px;
   max-height:700px;
